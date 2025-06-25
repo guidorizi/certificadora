@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Eventos from './pages/Eventos';
 import EventosEspecificos from './pages/Eventos_Especificos';
-import Voluntarios from './pages/Voluntaios';
+import Voluntarios from './pages/Voluntarios';
 
 function App() {
   return (
